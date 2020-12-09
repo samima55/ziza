@@ -1,0 +1,35 @@
+
+img{
+    width: 100%;
+    height:auto;
+}
+h3{
+    font-size: 4vw;
+    font-family: 'Open Sans', sans-serif;;
+}
+h4,h4 {
+    color:black;
+}
+#logo{
+    width: 120px;
+    height: auto;
+    margin-left:20px;
+}
+
+#pic{
+    margin-right:0;
+    margin-top: 10px;
+}
+
+#slogan{
+    margin-top: 20px;
+    font-size: 6vw;
+    font-family: 'Courgette', cursive;;
+}
+.product{
+   width:400px;
+   height:300px; 
+}
+#foot{
+    
+}
